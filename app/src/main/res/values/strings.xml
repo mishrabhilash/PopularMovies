@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="release_date">Release Date:</string>
+    <string name="user_rating">User Rating</string>
+    <array name="choices">
+        <item name="popular">Popular</item>
+        <item name="top_rated">Top Rated</item>
+    </array>
+</resources>
